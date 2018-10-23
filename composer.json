@@ -1,6 +1,7 @@
 {
     "name": "babychakra/database",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "arungangula",
